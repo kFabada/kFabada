@@ -1,5 +1,5 @@
 
- ## Meu Nome é Fabiano e estou no momento Cursando Análise e Desenvolvimento de Sistemas com o foco em back-end na linguaguem Java/C#
+ ## Meu Nome é Fabiano, estou no momento Cursando Análise e Desenvolvimento de Sistemas com o foco em back-end na linguaguem Java/C#
 
 
 <div style="display: inline_block"><br>
