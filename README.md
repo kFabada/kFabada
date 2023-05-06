@@ -11,9 +11,6 @@
   <img align="center" alt="Fabada-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Fabada-Hub" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47eymvcemq1hbac2loooli4zpwrw02wbx6c6opmby5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</div>
-
 
 </div>
 
