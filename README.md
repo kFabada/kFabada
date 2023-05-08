@@ -28,10 +28,6 @@
 
 ##
 
-<div align="center">
- <a href="https://github.com/eimigueloliveir"><img src="https://komarev.com/ghpvc/?username=kFabada&stylefor-the-badge" alt="kFabada">
- <a href="https://wakatime.com/@kFabada<img src="https://wakatime.com/badge/user/4ea4d323-1f7a-46e1-a08e-2080b1b95450.svg?style=for-the-badge" alt="kFabada" /> <a>
-<div/>
 
 
 ##
