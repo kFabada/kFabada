@@ -11,6 +11,9 @@
   <img align="center" alt="Fabada-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Fabada-Hub" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+ <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 
 </div>
 
