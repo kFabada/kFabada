@@ -13,7 +13,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="Fabada-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
-##
+
 <div align="center"> 
   <a href="https://www.instagram.com/fabianossilva_la/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiano-silva-473524222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPehZ5kIPTXe9TNR6oRj0iA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
